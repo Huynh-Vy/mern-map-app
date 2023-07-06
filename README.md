@@ -3,7 +3,7 @@
 
 ### Features
 1. User Authentication: Register, log in, and log out securely to access personalized features and maintain your profile.
-2. Pins (Reviews): Explore pins from your own user and other users, providing valuable insights and experiences about different places.
+2. Pins (Reviews): Explore pins from your own user and other users, providing valuable insights and experiences about different places. You can also  modify or delete your reviews from the map.
 3. Notification Messages: Receive notifications for registration, login, logout, and pin-related activities to stay updated.
 
 ### Getting Started
